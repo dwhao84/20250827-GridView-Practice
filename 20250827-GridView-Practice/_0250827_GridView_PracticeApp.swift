@@ -11,7 +11,7 @@ import SwiftUI
 struct _0250827_GridView_PracticeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CalculatorView()
         }
     }
 }
